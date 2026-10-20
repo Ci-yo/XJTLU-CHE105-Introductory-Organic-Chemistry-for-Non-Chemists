@@ -1,4 +1,4 @@
-# Y2S1-CHE105-Introductory Organic Chemistry for Non-Chemists
+# XJTLU-CHE105-Introductory Organic Chemistry for Non-Chemists
 
 I enjoyed this course. Many organic compound names are built from smaller word parts. Learn to read a structure and recognise its functional groups. Then use the naming rules to put the name together.
 
