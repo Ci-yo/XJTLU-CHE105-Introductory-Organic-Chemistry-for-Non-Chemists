@@ -1,12 +1,15 @@
-# 参考资料
+# Books and tables
 
-[返回 CHE105 首页](../README.md)
+[Back to CHE105](../README.md)
 
-| 资料 | 文件 |
+| Reference | File |
 |---|---|
-| Clayden、Greeves、Warren · Organic Chemistry，第 2 版 | [Organic Chemistry (2e) - Jonathan Clayden, Nick Greeves, Stuart Warren.pdf](Organic%20Chemistry%20%282e%29%20-%20Jonathan%20Clayden%2C%20Nick%20Greeves%2C%20Stuart%20Warren.pdf) |
-| 课程 pKa 表 | [pKa table(CHE105_113).pdf](pKa%20table%28CHE105_113%29.pdf) |
-| R. Williams 汇编的 pKa 参考资料 | [pKa_compilation-1-Williams.pdf](pKa_compilation-1-Williams.pdf) |
+| Organic Chemistry, 2nd edition, by Clayden, Greeves, and Warren | [Textbook PDF](Organic%20Chemistry%20%282e%29%20-%20Jonathan%20Clayden%2C%20Nick%20Greeves%2C%20Stuart%20Warren.pdf) |
+| Course pKa table | [pKa table(CHE105_113).pdf](pKa%20table%28CHE105_113%29.pdf) |
+| pKa data collected by R. Williams | [pKa_compilation-1-Williams.pdf](pKa_compilation-1-Williams.pdf) |
 
-本次按指定文件纳入私密审阅稿。教材文件较大，在线预览不便时可下载后阅读。
-这些材料的权利归原作者或出版方，不适用本仓库原创部分的 CC BY 4.0 许可，见[版权说明](../COPYRIGHT.md)。
+These files are included in this private draft for review.
+The textbook is a large file. Download it if the online preview is slow.
+The original authors or publishers keep the rights to these materials.
+They are not covered by the CC BY 4.0 licence for my original work.
+See [Copyright and sources](../COPYRIGHT.md).

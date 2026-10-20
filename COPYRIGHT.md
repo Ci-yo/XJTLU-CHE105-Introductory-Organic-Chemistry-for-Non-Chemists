@@ -1,30 +1,32 @@
-# 版权与整理范围
+# Copyright and sources
 
-Copyright © 2026 Xiyao Chen / Ci-yo, for original notes and repository documentation.
+Copyright © 2026 Xiyao Chen / Ci-yo, for original notes and README text.
 
-## 原创内容
+## Original work
 
-原创目录说明，以及整理者拥有相应权利的原创笔记和批注部分，采用 CC BY 4.0。
-分享或改写这些原创部分时，请注明 Xiyao Chen / Ci-yo、仓库地址、许可链接，并说明改动。
-[LICENSE](LICENSE) 仅用于上述原创内容，不代表整个资料集合统一采用该许可。
+The README text and the original parts of my notes and written answers use CC BY 4.0.
+When you share or change those parts, credit Xiyao Chen / Ci-yo.
+Include links to this repository and the licence, and describe any changes you made.
+The [LICENSE](LICENSE) file applies only to this original work. It does not cover every file in the collection.
 
-## 第三方内容
+## Material from other authors
 
-下列内容的权利仍归各自原权利人，整理者不为其授予新的许可：
+The original owners keep the rights to the following material. I do not grant a new licence for it:
 
-- `lectures/` 中的课程课件。
-- `tutorials/` 与 `coursework/` 中的教学题目、答案和其他第三方材料。
-- `references/` 中的教材、pKa 表和汇编。
-- `exams/` 中的试卷，以及 `exam-notes/` 中作为批注底稿的试卷。
-- 个人笔记中引用的教材或课件图片、引文、标志等第三方内容。
+- Lecture slides in `lectures/`.
+- Teaching questions, answers, and other source material in `tutorials/` and `coursework/`.
+- Books, pKa tables, and other references in `references/`.
+- Exam papers in `exams/` and the exam questions used in `exam-notes/`.
+- Images, quotes, logos, and other source material included in my notes.
 
-文件被存入仓库、文件作者属性、是否带水印，都不表示获得了第三方内容的再许可。
-重新使用第三方内容时，应依据其原始来源与许可。
+Adding a file to this repository does not change its copyright.
+A file's author field or watermark does not show that I can grant a licence for it.
+Check the original source and its licence before you reuse material from other authors.
 
-## 本次整理
+## About this collection
 
-本仓库目前为私密审阅稿，按整理者明确指定的文件范围归档。
-资料正文保持原样，按内容分类并提供使用说明。
+This repository is a private draft for review. It contains files chosen by the owner.
+The file contents are unchanged. They are sorted into folders with short guides.
 
-本仓库是个人学习资料整理，不代表学校或课程教师。
-发现来源说明或内容问题时，可在仓库 Issue 中提供文件名和具体位置以便修订。
+This is a personal study collection. It does not speak for the university or the lecturer.
+If you find a problem with a file or its source, open an Issue and give the filename and page.

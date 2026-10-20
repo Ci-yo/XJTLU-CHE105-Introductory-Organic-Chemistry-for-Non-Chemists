@@ -1,13 +1,15 @@
-# 个人笔记
+# Study notes
 
-[返回 CHE105 首页](../README.md)
+[Back to CHE105](../README.md)
 
-| 文件 | 说明 |
+| Notes | Format |
 |---|---|
-| [che105记忆.docx](che105%E8%AE%B0%E5%BF%86.docx?raw=1) | Word 原稿，下载后用 Word 或 WPS 打开 |
-| [CHE105记忆.pdf](CHE105%E8%AE%B0%E5%BF%86.pdf) | PDF 记忆资料 |
-| [CHE105背.pdf](CHE105%E8%83%8C.pdf) | 手写背诵笔记 |
-| [CHE105题型.pdf](CHE105%E9%A2%98%E5%9E%8B.pdf) | 期末题型笔记 |
+| [Key facts](che105%E8%AE%B0%E5%BF%86.docx?raw=1) | Word file. Download and open with Word or WPS. |
+| [Key facts](CHE105%E8%AE%B0%E5%BF%86.pdf) | PDF |
+| [Handwritten study notes](CHE105%E8%83%8C.pdf) | PDF |
+| [Final exam question types](CHE105%E9%A2%98%E5%9E%8B.pdf) | PDF |
 
-Word 和 PDF 分别保留，不保证两个版本内容完全一致。
-笔记是个人复习记录，尚未逐条校订；其中引用的课件、教材图片等第三方内容不适用原创部分的许可，见[版权说明](../COPYRIGHT.md)。
+The Word and PDF files are separate versions. Their contents may differ.
+These are personal study notes and have not been fully checked.
+Images and text from slides, books, or other sources are not covered by the licence for my original work.
+See [Copyright and sources](../COPYRIGHT.md).

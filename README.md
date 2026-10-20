@@ -1,30 +1,28 @@
 # Y2S1-CHE105-Introductory Organic Chemistry for Non-Chemists
 
-我比较喜欢有机化学这门课。很多有机物的名称，其实都是由一个个基础词根按规则拼接起来的。能看懂结构式、认出官能团，再掌握命名的“拼接原理”，就能把一个结构对应的名字写出来。
+I enjoyed this course. Many organic compound names are built from smaller word parts. Learn to read a structure and recognise its functional groups. Then use the naming rules to put the name together.
 
-课件里的反应机制也不是毫无来由的。把反应想象成一个具体的过程，理解每一步为什么会发生，就不会觉得这些反应无厘头。学习这门课，重点是会识别官能团、能解释基础反应机制，也懂得名称是怎样“拼接”出来的。
+Reaction mechanisms also make sense when you see them as a series of steps. Try to picture what happens at each step and why. The main skills are to recognise functional groups, explain basic mechanisms, and name organic compounds.
 
-如果 Tutorial（TTL）里的题都能自己做懂、讲清楚，基本就能融会贯通。我觉得，能做到这些，冲满分也不是问题。
+Try to solve the tutorial questions on your own. Make sure you can explain each answer. This helps you understand how the topics fit together. You can then aim for full marks.
 
-我记得期中考试主要是反应机制题，以及一些需要记忆的官能团。老师当时会给出复习范围，把范围内的内容好好掌握就可以。
+I remember that the midterm focused on reaction mechanisms and functional groups. The lecturer gave us a list of topics to review. Learn those topics well.
 
-期末题型基本可以按照我笔记里的分类来复习。往年试卷中有我写的解答和批注，我认为基本正确，仅供大家参考。
+For the final exam, you can follow the question types in my notes. I have added my answers and notes to past papers. Use them as a reference when you review.
 
-加油哦！
+## Materials
 
-## 资料目录
-
-| 分类 | 内容 |
+| Folder | Contents |
 |---|---|
-| [Lecture 课件](lectures/README.md) | L1-L12，按讲次排列 |
-| [Tutorial 答案](tutorials/README.md) | Tutorial 1-5、6-10 |
-| [CW 题目](coursework/README.md) | CW1、CW2 题目 |
-| [个人笔记](notes/README.md) | 记忆、背诵和题型整理 |
-| [历年试卷](exams/README.md) | 2021-2024 学年的 Final / Resit |
-| [考试笔记](exam-notes/README.md) | 往年试卷的解答和批注 |
-| [参考资料](references/README.md) | Clayden 教材及两份 pKa 资料 |
+| [Lecture slides](lectures/README.md) | L1-L12, in lecture order |
+| [Tutorial answers](tutorials/README.md) | Tutorials 1-5 and 6-10 |
+| [Coursework questions](coursework/README.md) | CW1 and CW2 questions |
+| [Study notes](notes/README.md) | Key facts, handwritten notes, and question types |
+| [Past papers](exams/README.md) | Final and resit papers from 2021-2024 |
+| [Notes on past papers](exam-notes/README.md) | My answers and notes on past papers |
+| [Books and tables](references/README.md) | The Clayden textbook and two pKa references |
 
-点击分类进入文件目录。PDF 可以在线预览；Word 和 PowerPoint 下载后打开。
-想一次保存全部资料，可以点击仓库上方 **Code → Download ZIP**。
+Open a folder above and choose a file. You can view PDFs on GitHub. Download Word and PowerPoint files to open them.
+To save everything, select **Code → Download ZIP** at the top of the repository.
 
-资料来源与许可见[版权说明](COPYRIGHT.md)。
+See [Copyright and sources](COPYRIGHT.md) for details.

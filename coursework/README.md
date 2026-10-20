@@ -1,13 +1,13 @@
-# CW 题目
+# Coursework questions
 
-[返回 CHE105 首页](../README.md)
+[Back to CHE105](../README.md)
 
-本目录收录 CW1 和 CW2 的题目。
+This folder contains the questions for CW1 and CW2.
 
-| 文件 | 说明 |
+| File | Details |
 |---|---|
 | [CHE105AY202425CW1.pdf](CHE105AY202425CW1.pdf) | 2024-2025 CHE105 Coursework 1 |
-| [CHE105CW2.pdf](CHE105CW2.pdf) | 2024-2025 Coursework 2；原文件封面标注为 CHE113 |
+| [CHE105CW2.pdf](CHE105CW2.pdf) | 2024-2025 Coursework 2. The original cover says CHE113. |
 
-题目内容保持原样，点击文件名可预览 PDF。
-教学题目不适用原创笔记的许可，见[版权说明](../COPYRIGHT.md)。
+The questions are unchanged. Click a filename to view the PDF.
+The questions are not covered by the licence for my original notes. See [Copyright and sources](../COPYRIGHT.md).
