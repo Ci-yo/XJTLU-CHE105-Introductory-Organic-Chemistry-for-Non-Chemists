@@ -25,7 +25,7 @@ Check the original source and its licence before you reuse material from other a
 
 ## About this collection
 
-This repository is a private draft for review. It contains files chosen by the owner.
+This repository contains selected course materials and personal study notes.
 The file contents are unchanged. They are sorted into folders with short guides.
 
 This is a personal study collection. It does not speak for the university or the lecturer.
