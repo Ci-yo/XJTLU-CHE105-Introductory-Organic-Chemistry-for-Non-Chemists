@@ -1,0 +1,10 @@
+~$*
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+private/
+audit/
