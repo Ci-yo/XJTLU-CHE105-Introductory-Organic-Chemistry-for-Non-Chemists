@@ -3,7 +3,7 @@
 [Back to CHE105](../README.md)
 
 These papers include written answers and notes for review.
-You can compare them with the [past papers](../exams/README.md).
+You can compare them with the [past papers](../Exams/).
 The notes have not been fully checked.
 
 | Academic year | Exam | File | Details |

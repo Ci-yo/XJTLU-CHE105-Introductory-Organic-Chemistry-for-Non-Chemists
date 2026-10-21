@@ -1,4 +1,4 @@
-# Study notes
+# Note
 
 [Back to CHE105](../README.md)
 

@@ -13,10 +13,10 @@ The [LICENSE](LICENSE) file applies only to this original work. It does not cove
 
 The original owners keep the rights to the following material. I do not grant a new licence for it:
 
-- Lecture slides in `lectures/`.
-- Teaching questions, answers, and other source material in `tutorials/` and `coursework/`.
-- Books, pKa tables, and other references in `references/`.
-- Exam papers in `exams/` and the exam questions used in `exam-notes/`.
+- Lecture slides in `Lectures/`.
+- Teaching questions, answers, and other source material in `Tutorials/` and `Coursework/`.
+- Books, pKa tables, and other references in `References/`.
+- Exam papers in `Exams/` and the exam questions used in `Exam-notes/`.
 - Images, quotes, logos, and other source material included in my notes.
 
 Adding a file to this repository does not change its copyright.

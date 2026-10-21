@@ -14,13 +14,13 @@ For the final exam, you can follow the question types in my notes. I have added 
 
 | Folder | Contents |
 |---|---|
-| [Lecture slides](lectures/README.md) | L1-L12, in lecture order |
-| [Tutorial answers](tutorials/README.md) | Tutorials 1-5 and 6-10 |
-| [Coursework questions](coursework/README.md) | CW1 and CW2 questions |
-| [Study notes](notes/README.md) | Key facts, handwritten notes, and question types |
-| [Past papers](exams/README.md) | Final and resit papers from 2021-2024 |
-| [Notes on past papers](exam-notes/README.md) | My answers and notes on past papers |
-| [Books and tables](references/README.md) | The Clayden textbook and two pKa references |
+| [Lecture slides](Lectures/) | L1-L12, in lecture order |
+| [Tutorial answers](Tutorials/) | Tutorials 1-5 and 6-10 |
+| [Coursework questions](Coursework/) | CW1 and CW2 questions |
+| [Note](Note/) | Key facts, handwritten notes, and question types |
+| [Past papers](Exams/) | Final and resit papers from 2021-2024 |
+| [Notes on past papers](Exam-notes/) | My answers and notes on past papers |
+| [Books and tables](References/) | The Clayden textbook and two pKa references |
 
 Open a folder above and choose a file. You can view PDFs on GitHub. Download Word and PowerPoint files to open them.
 To save everything, select **Code → Download ZIP** at the top of the repository.

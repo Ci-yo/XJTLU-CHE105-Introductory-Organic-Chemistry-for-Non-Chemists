@@ -11,6 +11,6 @@ These copies have no handwritten notes.
 | 2022-2023 | [CHE105 22F.pdf](CHE105%2022F.pdf) | [CHE105 22R.pdf](CHE105%2022R.pdf) |
 | 2021-2022 | [CHE105 21F.pdf](CHE105%2021F.pdf) | [CHE105 21R.pdf](CHE105%2021R.pdf) |
 
-See [Notes on past papers](../exam-notes/README.md) for copies with written answers and notes.
+See [Notes on past papers](../Exam-notes/) for copies with written answers and notes.
 The exam papers are not covered by the licence for my original notes.
 See [Copyright and sources](../COPYRIGHT.md).
